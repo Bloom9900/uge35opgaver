@@ -1,0 +1,20 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk1.8.0_221\jre\..\bin\javadoc.exe" @options @argfile"
+C:\Users\Jannich\Documents\NetBeansProjects\Template\target\site\apidocs\allclasses-frame.html = 1598384174474
+C:\Users\Jannich\Documents\NetBeansProjects\Template\target\site\apidocs\allclasses-noframe.html = 1598384174475
+C:\Users\Jannich\Documents\NetBeansProjects\Template\target\site\apidocs\argfile = 1598384173287
+C:\Users\Jannich\Documents\NetBeansProjects\Template\target\site\apidocs\constant-values.html = 1598384174434
+C:\Users\Jannich\Documents\NetBeansProjects\Template\target\site\apidocs\deprecated-list.html = 1598384174472
+C:\Users\Jannich\Documents\NetBeansProjects\Template\target\site\apidocs\help-doc.html = 1598384174486
+C:\Users\Jannich\Documents\NetBeansProjects\Template\target\site\apidocs\index-all.html = 1598384174470
+C:\Users\Jannich\Documents\NetBeansProjects\Template\target\site\apidocs\index.html = 1598384174482
+C:\Users\Jannich\Documents\NetBeansProjects\Template\target\site\apidocs\options = 1598384173285
+C:\Users\Jannich\Documents\NetBeansProjects\Template\target\site\apidocs\overview-frame.html = 1598384174398
+C:\Users\Jannich\Documents\NetBeansProjects\Template\target\site\apidocs\overview-summary.html = 1598384174484
+C:\Users\Jannich\Documents\NetBeansProjects\Template\target\site\apidocs\overview-tree.html = 1598384174463
+C:\Users\Jannich\Documents\NetBeansProjects\Template\target\site\apidocs\package-list = 1598384174392
+C:\Users\Jannich\Documents\NetBeansProjects\Template\target\site\apidocs\script.js = 1598384174493
+C:\Users\Jannich\Documents\NetBeansProjects\Template\target\site\apidocs\serialized-form.html = 1598384174440
+C:\Users\Jannich\Documents\NetBeansProjects\Template\target\site\apidocs\stylesheet.css = 1598384174488
