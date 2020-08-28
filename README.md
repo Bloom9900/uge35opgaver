@@ -35,3 +35,5 @@
 
 Jeg har fulgt opgaverne meget præcist. I og med der ikke er blevet skrevet om test data i nogen af opgavebeskrivelserne er det ikke alle opgaver som har "testdata" i databasen. F.eks. ved endpoints /all vil man kun kunne se "[]"
 Har prøvet at spørge om hjælp til test med JUnit flere gange på slack uden held.
+
+Mht. commits så fandt jeg først ud af i dag at vi skulle have haft et git repo klart fra starten af ugen så har uploadet alle projekter i dag d. 28.08.2020
